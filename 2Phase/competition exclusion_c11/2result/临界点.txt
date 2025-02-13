@@ -1,0 +1,4 @@
+#!/usr/bin/env wolframscript
+临界点----精确到千分位
+0.057三稳态
+0.058双稳态
