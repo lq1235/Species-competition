@@ -33,7 +33,6 @@ Name: Linqi Wang
 
 Email:yc2205566011@163.com
 
-ORCID: 0009-0001-0681-4297
 
 **corresponding author**
 
@@ -41,4 +40,3 @@ Name: Jin Wang
 
 Email:jin.wang.1@stonybrook.edu
 
-ORCID: 0000-0002-2841-4913
